@@ -4,7 +4,7 @@
 
     📍 Norway, Trondheim
 
-    💡 From teacher to developer 👩‍🏫👩‍💻
+    💡 From drama teacher to developer 👩‍🏫👩‍💻
 
     ⚡ Interest: I am a hobby painter who loves to create art and write. 
        I also like to maintain an active lifestyle lifting weights, 
