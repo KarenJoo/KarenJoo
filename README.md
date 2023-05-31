@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Karen Jo 👋
 
-<!--
-**KarenJoo/KarenJoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I'm a fulltime Front-end development student at Noroff
 
-Here are some ideas to get you started:
+    📍 Norway, Trondheim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    💡 From teacher to developer 👩‍🏫👩‍💻
+
+    ⚡ Interest: I am a hobby painter who loves to create art and write. 
+       I also like to maintain an active lifestyle lifting weights, 
+       running and cross-country skiing.
+
+    🔭 Latest project: Project Exam - "Health Hub"
+
+    🌱 Currently learning: Always trying to dig deeper into JavaScript
+    
+    📫 How to reach me: karenfiksdahl@gmail.com
+    
+    
+
+## Current skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
