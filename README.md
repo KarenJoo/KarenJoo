@@ -1,6 +1,6 @@
 # Hi, I'm Karen Jo 👋
 
-## I'm a fulltime Front-end development student at Noroff
+## I'm a Front-End Development student at Noroff
 
     📍 Norway, Trondheim
 
