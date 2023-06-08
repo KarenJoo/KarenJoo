@@ -6,11 +6,12 @@
 
     💡 From drama teacher to developer 👩‍🏫👩‍💻
 
-    ⚡ Interest: I am a hobby painter who loves to create art and write. 
+    ⚡ Interests: I am a hobby painter who loves to create art and write texts. 
        I also like to maintain an active lifestyle lifting weights, 
        running and cross-country skiing.
 
-    🔭 Latest project: Project Exam - "Health Hub"
+    🔭 Latest project: 
+    - Portfolio 1 and Project Exam - "Health Hub"
 
     🌱 Currently learning: Always trying to dig deeper into JavaScript
     
@@ -19,4 +20,4 @@
     
 
 ## Current skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,figma,github,wordpress)](https://skillicons.dev)
