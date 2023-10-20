@@ -4,20 +4,18 @@
 
     📍 Norway, Trondheim
 
-    💡 From drama teacher to developer 👩‍🏫👩‍💻
+    💡 From drama teacher to development student 👩‍🏫👩‍💻
 
-    ⚡ Interests: I am a hobby painter who loves to create art and write texts. 
-       I also like to maintain an active lifestyle lifting weights, 
-       running and cross-country skiing.
+    ⚡ Interests: I am a hobby painter who enjoys to create art and write texts. 
+       I also like to maintain an active lifestyle lifting weights, snowboarding,
+       running, and cross-country skiing.
 
     🔭 Latest project: 
-    - Portfolio 1 and Project Exam - "Health Hub"
+    - JS2 CA "Boho Styles" social media app
 
-    🌱 Currently learning: Always trying to dig deeper into JavaScript
+    🌱 Status: Always trying to dig deeper into JavaScript and Git
     
     📫 How to reach me: karenfiksdahl@gmail.com
     
     
 
-## Current skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,figma,github,wordpress)](https://skillicons.dev)
