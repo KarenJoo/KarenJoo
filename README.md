@@ -1,5 +1,5 @@
 
-![Group 1](https://github.com/KarenJoo/KarenJoo/assets/114563762/930117f5-5dd9-476b-9930-9b8c9df0edf5)
+![portfolioimg](https://github.com/KarenJoo/KarenJoo/assets/114563762/952a636c-7d86-4648-9a87-b7d266a35750)
 
 # 👋 Hi, I'm Karen Jo 
 
@@ -29,6 +29,6 @@
 
     
 ## 📫 How to reach me: 
-  [  <a href="mailto:karenfiksdahl@gmail.com">![karenfiksdahl@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[    <a href="<[LinkedInURL](https://www.linkedin.com/in/karen-jo/)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karenfiksdahl@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-jo/)
     
 
