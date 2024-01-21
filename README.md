@@ -8,7 +8,8 @@
     📍 Based in Trondheim, Norway
 
     💡 Former Education
-        Bachelor's degree + The Teachers Education (PPU) from NTNU 
+        Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
+        Jurisprudence, Law from INN (1 year)
 
     ⚡ Interests
         I am a hobby drawer and painter who enjoys creating art and writing comics. 
@@ -21,11 +22,11 @@
 
 ### 💻 I'm currently working on
 
-    - Current Student Course: "Industry Knowledge"
+    - Current Student Course: "Development Platforms"
     
     - Personal project: Creating my portfolio
     
-    - Certifications: Javascript Algorithms and Data Structures Beta (FreeCodeCamp)
+    - Learning React and anime.js 
 
     
 ## 📫 How to reach me: 
