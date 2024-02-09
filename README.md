@@ -17,6 +17,11 @@
         running, and cross-country skiing.
 
     🔭 Latest student project
+    
+    - Development Platforms:
+       - Case study 1: Expanding Strapi.md with a walkthrough of Strapi Quicktime option with Postman
+       - Case study 2: Covering a detailed tutorial on Strapi React Integration 
+       
     - Semester Project 2: "BestBid" Auction App
 
 
@@ -24,9 +29,7 @@
 
     - Current Student Course: "Development Platforms"
     
-    - Personal project: Creating my portfolio
-    
-    - Learning React and anime.js 
+    - Learning Strapi, React and anime.js 
 
     
 ## 📫 How to reach me: 
