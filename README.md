@@ -3,33 +3,40 @@
 
 # 👋 Hi, I'm Karen Jo 
 
-   :woman_technologist: I'm a Frontend Development student at Noroff
+ :woman_technologist: I'm a Frontend Development fulltime student at Noroff 
     
-    📍 Based in Trondheim, Norway
+ 📍 Based in Trondheim, Norway
 
-    💡 Former Education
+###   💡 Former Education
         Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
         Jurisprudence, Law from INN (1 year)
 
-    ⚡ Interests
+### ⚡ Interests
         I am a hobby drawer and painter who enjoys creating art and writing comics. 
         I maintain an active lifestyle by lifting weights, snowboarding,
         running, and cross-country skiing.
 
-    🔭 Latest student project
-    
-    - Development Platforms:
-       - Case study 1: Expanding Strapi.md with a walkthrough of Strapi Quicktime option with Postman
-       - Case study 2: Covering a detailed tutorial on Strapi React Integration 
-       
-    - Semester Project 2: "BestBid" Auction App
 
+ ### 🔭 Latest student project
+
+#### Strapi React case study
+A tutorial covering the creation of a RESTful API with Strapi and its integration with a React frontend
+
+    https://github.com/KarenJoo/development-platforms/blob/strapi-react-case-study/src/content/docs/frameworks/React/strapi-react-case-study.md 
+
+#### "Shoedays" Demo app: 
+My first project created with Strapi and REact integration only for the "Strapi React case study" demonstration purposes.
+     
+    https://github.com/KarenJoo/strapi-react-app 
+       
+#### "BestBid" Auction App
+An auction site where users can add items to be bid on and bid on items other users have put up for auction.
+
+    https://github.com/KarenJoo/SemesterProject2
 
 ### 💻 I'm currently working on
+      Current Student Course: "JavaScript Frameworks" > React
 
-    - Current Student Course: "Development Platforms"
-    
-    - Learning Strapi, React and anime.js 
 
     
 ## 📫 How to reach me: 
