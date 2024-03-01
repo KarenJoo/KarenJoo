@@ -25,7 +25,7 @@ A tutorial covering the creation of a RESTful API with Strapi and its integratio
     https://github.com/KarenJoo/development-platforms/blob/strapi-react-case-study/src/content/docs/frameworks/React/strapi-react-case-study.md 
 
 #### "Shoedays" Demo app: 
-My first project created with Strapi and REact integration only for the "Strapi React case study" demonstration purposes.
+My first project created with Strapi and React integration only for the "Strapi React case study" demonstration purposes.
      
     https://github.com/KarenJoo/strapi-react-app 
        
@@ -35,7 +35,10 @@ An auction site where users can add items to be bid on and bid on items other us
     https://github.com/KarenJoo/SemesterProject2
 
 ### 💻 I'm currently working on
-      Current Student Course: "JavaScript Frameworks" > React
+Current Student Course: "JavaScript Frameworks" > React
+Currently developing my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store 
+      
+      https://github.com/KarenJoo/urbano-shop/tree/dev 
 
 
     
