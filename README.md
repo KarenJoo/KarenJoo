@@ -36,6 +36,7 @@ An auction site where users can add items to be bid on and bid on items other us
 
 ### 💻 I'm currently working on
 Current Student Course: "JavaScript Frameworks" > React
+
 Currently developing my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store 
       
       https://github.com/KarenJoo/urbano-shop/tree/dev 
