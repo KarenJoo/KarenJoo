@@ -9,13 +9,20 @@
 
 ###   💡 Former Education
         Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
-        Jurisprudence, Law from INN (1 year)
+        Jurisprudence, Law from Høgskolen i Innlandet (INN) (1 year)
 
 ### ⚡ Interests
         I am a hobby drawer and painter who enjoys creating art and writing comics. 
-        I maintain an active lifestyle by lifting weights, snowboarding,
-        running, and cross-country skiing.
+        I maintain an active lifestyle by lifting weights, snowboarding freeriding,
+        running 10k-30k outdoors, and cross-country skiing.
+    
 
+### 💻 I'm currently working on
+Current Student Course: "JavaScript Frameworks" > First project learning React 
+
+Currently developing my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store 
+      
+      https://github.com/KarenJoo/urbano-shop/tree/dev 
 
  ### 🔭 Latest student project
 
@@ -30,17 +37,12 @@ My first project created with Strapi and React integration only for the "Strapi 
     https://github.com/KarenJoo/strapi-react-app 
        
 #### "BestBid" Auction App
-An auction site where users can add items to be bid on and bid on items other users have put up for auction.
+An auction site where users can add items to be bid on and bid on items other users have put up for auction. Design is not complete.
 
     https://github.com/KarenJoo/SemesterProject2
 
-### 💻 I'm currently working on
-Current Student Course: "JavaScript Frameworks" > React
-
-Currently developing my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store 
-      
-      https://github.com/KarenJoo/urbano-shop/tree/dev 
-
+### 💡 For my next project, I will deep dive into: 
+- React and Vite
 
     
 ## 📫 How to reach me: 
