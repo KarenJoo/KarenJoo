@@ -18,21 +18,25 @@
     
 
 ### 💻 I'm currently working on
-Current Student Course: "JavaScript Frameworks" > First project learning React 
 
-Currently developing my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store 
-      
-      https://github.com/KarenJoo/urbano-shop/tree/dev 
+#### Project Exam 2: Holidaze
+Currently working with an official API documentation, planning, designing, and building a front-end accommodation booking application.
+
+There are two aspects to this brief: the customer-facing side of the website where users can book holidays at a venue, and the admin-facing side where users can register and manage venues and bookings at those venues.
+ https://github.com/KarenJoo/holidaze/tree/dev 
 
  ### 🔭 Latest student project
+#### Current Student Course: "JavaScript Frameworks" > First project learning React 
 
+Designed, created and developed my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store 
+      
+      https://github.com/KarenJoo/urbano-shop/tree/dev 
 #### Strapi React case study
 A tutorial covering the creation of a RESTful API with Strapi and its integration with a React frontend
 
     https://github.com/KarenJoo/development-platforms/blob/strapi-react-case-study/src/content/docs/frameworks/React/strapi-react-case-study.md 
 
-#### "Shoedays" Demo app: 
-My first project created with Strapi and React integration only for the "Strapi React case study" demonstration purposes.
+Also created my first project with Strapi and React integration only for the "Strapi React case study" demonstration purposes.
      
     https://github.com/KarenJoo/strapi-react-app 
        
@@ -42,7 +46,7 @@ An auction site where users can add items to be bid on and bid on items other us
     https://github.com/KarenJoo/SemesterProject2
 
 ### 💡 For my next project, I will deep dive into: 
-- React and Vite
+- React and MUI
 
     
 ## 📫 How to reach me: 
