@@ -7,7 +7,7 @@
     
  📍 Based in Trondheim, Norway
 
-##   💡 Former Education
+##  🎓 Former Education
         Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
         
         Jurisprudence, Law from Høgskolen i Innlandet (INN) (1 year)
@@ -19,6 +19,10 @@
         I maintain an active lifestyle by lifting weights, snowboarding freeriding,
         running outdoors, and cross-country skiing.
     
+## 💡 Skills and knowledge
+GitHub. Git. HTML. JavaScript. CSS. SCSS. Bootstrap. MUI. Strapi. React. Netlify. 
+Jest. Postman. Scrum. Agile. RESTful API. Figma. 
+
 
 ## 💻 I'm currently working on
 
@@ -27,14 +31,14 @@
 
 _________________________________________
 
- ## 🔭 Latest student project
+ ## 🔭 Latest student projects
 
  ### Holidaze Booking Accommodation App
  #### Course "Project Exam 2"
 
-Currently working with official API documentation, planning, designing, and building a front-end accommodation booking application.
+Worked with Noroff API, planning, designing, and building a front-end accommodation booking application.
 
-There are two aspects to this brief: the customer-facing side of the website where users can book holidays at a venue, and the admin-facing side where users can register and manage venues and bookings at those venues.
+There are two aspects to this brief: the customer-facing side of the website where users can book holidays at a venue, and the admin-facing side where users can register and manage venues and bookings at those venues. Due to compiler issues under deployment, the project is not to be deployed until tutors have time to investigate further.
 
 #### Project Repo: 
     [https://github.com/KarenJoo/holidaze/tree/dev ](https://github.com/KarenJoo/ProjectExam2.git)
@@ -68,8 +72,6 @@ An auction site where users can add items to be bid on and bid on items other us
 #### Project Repo
     https://github.com/KarenJoo/SemesterProject2
 
-## 💡 For my next project, I will deep dive into: 
-- React and MUI
 
     
 ## 📫 How to reach me: 
