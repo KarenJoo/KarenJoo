@@ -3,50 +3,72 @@
 
 # 👋 Hi, I'm Karen Jo 
 
- :woman_technologist: I'm a Frontend Development fulltime student at Noroff 
+ :woman_technologist: I'm a Frontend Development student at Noroff School of Technology and Digital Media
     
  📍 Based in Trondheim, Norway
 
-###   💡 Former Education
+##   💡 Former Education
         Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
+        
         Jurisprudence, Law from Høgskolen i Innlandet (INN) (1 year)
 
-### ⚡ Interests
+        Frontend Development Higher Professional Degree from Noroff 
+
+## ⚡ Interests
         I am a hobby drawer and painter who enjoys creating art and writing comics. 
         I maintain an active lifestyle by lifting weights, snowboarding freeriding,
-        running 10k-30k outdoors, and cross-country skiing.
+        running outdoors, and cross-country skiing.
     
 
-### 💻 I'm currently working on
+## 💻 I'm currently working on
 
-#### Project Exam 2: Holidaze
-Currently working with an official API documentation, planning, designing, and building a front-end accommodation booking application.
+### A new Portfolio created with React
+#### Course "Portfolio 2"
+
+_________________________________________
+
+ ## 🔭 Latest student project
+
+ ### Holidaze Booking Accommodation App
+ #### Course "Project Exam 2"
+
+Currently working with official API documentation, planning, designing, and building a front-end accommodation booking application.
 
 There are two aspects to this brief: the customer-facing side of the website where users can book holidays at a venue, and the admin-facing side where users can register and manage venues and bookings at those venues.
 
-    https://github.com/KarenJoo/holidaze/tree/dev 
+#### Project Repo: 
+    [https://github.com/KarenJoo/holidaze/tree/dev ](https://github.com/KarenJoo/ProjectExam2.git)
+    
+### Urbano Web Shop
+#### Course "JavaScript Frameworks"
 
- ### 🔭 Latest student project
-#### Current Student Course: "JavaScript Frameworks" > First project learning React 
+My first project learning React.js. Designed, created and developed my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store. 
 
-Designed, created and developed my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store 
+#### Project Repo: 
+    https://github.com/KarenJoo/urbano-shop/tree/dev 
       
-      https://github.com/KarenJoo/urbano-shop/tree/dev 
-#### Strapi React case study
+### Strapi React case study
+#### Course "Development Platforms"
+
 A tutorial covering the creation of a RESTful API with Strapi and its integration with a React frontend
 
+#### Project Repo   
     https://github.com/KarenJoo/development-platforms/blob/strapi-react-case-study/src/content/docs/frameworks/React/strapi-react-case-study.md 
 
-Also created my first project with Strapi and React integration only for the "Strapi React case study" demonstration purposes.
-     
+I also created my first project with Strapi and React integration only for the "Strapi React case study" demonstration purposes.
+
+#### Project Repo   
     https://github.com/KarenJoo/strapi-react-app 
        
-#### "BestBid" Auction App
+### BestBid Auction App
+#### Course Semester Project 2 
+
 An auction site where users can add items to be bid on and bid on items other users have put up for auction. Design is not complete.
 
+#### Project Repo
     https://github.com/KarenJoo/SemesterProject2
 
-### 💡 For my next project, I will deep dive into: 
+## 💡 For my next project, I will deep dive into: 
 - React and MUI
 
     
