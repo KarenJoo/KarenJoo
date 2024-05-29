@@ -38,7 +38,7 @@ _________________________________________
 
 Worked with Noroff API, planning, designing, and building a front-end accommodation booking application.
 
-There are two aspects to this brief: the customer-facing side of the website where users can book holidays at a venue, and the admin-facing side where users can register and manage venues and bookings at those venues. Due to compiler issues under deployment, the project is not to be deployed until tutors have time to investigate further.
+There are two aspects to this brief: the customer-facing side of the website where users can book holidays at a venue, and the admin-facing side where users can register and manage venues and bookings at those venues. 
 
 #### Project Repo: 
     [https://github.com/KarenJoo/holidaze/tree/dev ](https://github.com/KarenJoo/ProjectExam2.git)
