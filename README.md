@@ -1,16 +1,19 @@
 
 ![portfolioimg](https://github.com/KarenJoo/KarenJoo/assets/114563762/952a636c-7d86-4648-9a87-b7d266a35750)
 
-# 👋 Hi, I'm Karen Jo 
+# <div align='center'> 👋 Hi, I'm Karen Jo </div>
 
- :woman_technologist: I'm a Frontend Development student at Noroff School of Technology and Digital Media
+## 🔅 About me
+  :woman_technologist: Frontend Development student
+  
+  ➡️ Graduating from Noroff School of Technology and Digital Media Summer 2024
     
  📍 Based in Trondheim, Norway
 
 ##  🎓 Former Education
         Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
         
-        Jurisprudence, Law from Høgskolen i Innlandet (INN) (1 year)
+        Jurisprudence, Law from Høgskolen i Innlandet (1 year)
 
         Frontend Development Higher Professional Degree from Noroff 
 
@@ -19,15 +22,19 @@
         I maintain an active lifestyle by lifting weights, snowboarding freeriding,
         running outdoors, and cross-country skiing.
     
-## 💡 Skills and knowledge
-GitHub. Git. HTML. JavaScript. CSS. SCSS. Bootstrap. MUI. Strapi. React. Netlify. 
-Jest. Postman. Scrum. Agile. RESTful API. Figma. 
+## 💡 Skills and Knowledge
 
+<br> ```GitHub``` ```Git``` ```HTML``` ```JavaScript``` 
+```CSS``` ```SCSS``` ```Bootstrap``` </br>
+<br>```Material UI``` ```Strapi``` ```React.js``` 
+```Netlify``` ```Jest``` ```Cypress```  </br>
+<br>```Postman``` ```Scrum``` ```Agile``` ```RESTful API``` ```Figma``` </br>
+
+
+________________________________________
 
 ## 💻 I'm currently working on
-
-### A new Portfolio created with React
-#### Course "Portfolio 2"
+#### Course "Portfolio 2": constructing a Portfolio with plain HTML, CSS, JS
 
 _________________________________________
 
