@@ -11,16 +11,22 @@
  📍 Based in Trondheim, Norway
 
 ##  🎓 Former Education
+        
+        Frontend Development Higher Professional Degree from Noroff 
+        
         Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
         
         Jurisprudence, Law from Høgskolen i Innlandet (1 year)
 
-        Frontend Development Higher Professional Degree from Noroff 
+        
 
 ## ⚡ Interests
-        I am a hobby drawer and painter who enjoys creating art and writing comics. 
-        I maintain an active lifestyle by lifting weights, snowboarding freeriding,
-        running outdoors, and cross-country skiing.
+
+        I am a hobby drawer and painter who enjoys creating art and writing comics.
+        
+        I maintain an active lifestyle and enjoy lifting weights, snowboard,
+        
+        run outdoors, and cross-country skiing.
     
 ## 💡 Skills and Knowledge
 
