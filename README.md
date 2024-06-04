@@ -1,5 +1,6 @@
 
-![portfolioimg](https://github.com/KarenJoo/KarenJoo/assets/114563762/952a636c-7d86-4648-9a87-b7d266a35750)
+![header](https://github.com/KarenJoo/KarenJoo/assets/114563762/e50544f7-d1fe-41ba-893a-aa9900ab5ded)
+
 
 # <div align='center'> 👋 Hi, I'm Karen Jo </div>
 
