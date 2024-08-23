@@ -6,7 +6,7 @@
 
 ## 🔅 About me
 
- 👩‍💻 Work: Fulltime Front-End Developer
+ 👩‍💻 Currently working as a Full-time Front-End Developer
     
  📍 Based in Trondheim, Norway
 
