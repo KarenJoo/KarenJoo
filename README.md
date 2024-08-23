@@ -5,9 +5,8 @@
 # <div align='center'> 👋 Hi, I'm Karen Jo </div>
 
 ## 🔅 About me
-  :woman_technologist: Frontend Development student
-  
-  ➡️ Graduating from Noroff School of Technology and Digital Media Summer 2024
+
+ 👩‍💻 Work: Fulltime Front-End Developer
     
  📍 Based in Trondheim, Norway
 
@@ -18,6 +17,8 @@
         Bachelor's degree + Postgraduate Degree in Practical Teacher Education (PPU) from NTNU
         
         Jurisprudence, Law from Høgskolen i Innlandet (1 year)
+        
+        Graduated from Noroff School of Technology and Digital Media Summer 2024
 
         
 
@@ -41,9 +42,12 @@
 ________________________________________
 
 ## 💻 I'm currently working on
-#### Course "Portfolio 2": constructing a Portfolio with plain HTML, CSS, JS
 
-_________________________________________
+> Typescript, Azure, Sharepoint (SPFx), Fluid UI
+
+> MERN stack 
+React, Mongo DB, Express, Next.js + Tailwind
+
 
  ## 🔭 Latest student projects
 
