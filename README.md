@@ -1,12 +1,9 @@
 
-![header](https://github.com/KarenJoo/KarenJoo/assets/114563762/e50544f7-d1fe-41ba-893a-aa9900ab5ded)
-
-
 # <div align='center'> 👋 Hi, I'm Karen Jo </div>
 
 ## 🔅 About me
 
- 👩‍💻 Currently working as a Full-time Front-End Developer
+ 👩‍💻 Currently working as a Full-time Front-End Developer at Brilliant AS
     
  📍 Based in Trondheim, Norway
 
@@ -24,7 +21,7 @@
 
 ## ⚡ Interests
 
-        I am a hobby drawer and painter who enjoys creating art and writing comics.
+        I am a hobby drawer and painter who enjoys creating art.
         
         I maintain an active lifestyle and enjoy lifting weights, snowboard,
         
@@ -32,63 +29,18 @@
     
 ## 💡 Skills and Knowledge
 
-<br> ```GitHub``` ```Git``` ```HTML``` ```JavaScript``` 
-```CSS``` ```SCSS``` ```Bootstrap``` </br>
-<br>```Material UI``` ```Strapi``` ```React.js``` 
+<br> ```Typescript``` ```Git``` ```React``` ```JavaScript``` 
+```CSS``` ```SCSS``` ```Bootstrap``` ```Tailwind```  </br>
+<br>```Material UI``` ```Strapi``` ```Vite``` 
 ```Netlify``` ```Jest``` ```Cypress```  </br>
-<br>```Postman``` ```Scrum``` ```Agile``` ```RESTful API``` ```Figma``` </br>
+<br>```Scrum``` ```Agile``` ```API``` ```Figma``` </br>
 
 
 ________________________________________
 
 ## 💻 I'm currently working on
 
-> Typescript, Azure, Sharepoint (SPFx), Fluid UI
-
-> MERN stack 
-React, Mongo DB, Express, Next.js + Tailwind
-
-
- ## 🔭 Latest student projects
-
- ### Holidaze Booking Accommodation App
- #### Course "Project Exam 2"
-
-Worked with Noroff API, planning, designing, and building a front-end accommodation booking application.
-
-There are two aspects to this brief: the customer-facing side of the website where users can book holidays at a venue, and the admin-facing side where users can register and manage venues and bookings at those venues. 
-
-#### Project Repo: 
-    [https://github.com/KarenJoo/holidaze/tree/dev ](https://github.com/KarenJoo/ProjectExam2.git)
-    
-### Urbano Web Shop
-#### Course "JavaScript Frameworks"
-
-My first project learning React.js. Designed, created and developed my fictive app "Urbano", to apply knowledge of React and redux to build an eCom store. 
-
-#### Project Repo: 
-    https://github.com/KarenJoo/urbano-shop/tree/dev 
-      
-### Strapi React case study
-#### Course "Development Platforms"
-
-A tutorial covering the creation of a RESTful API with Strapi and its integration with a React frontend
-
-#### Project Repo   
-    https://github.com/KarenJoo/development-platforms/blob/strapi-react-case-study/src/content/docs/frameworks/React/strapi-react-case-study.md 
-
-I also created my first project with Strapi and React integration only for the "Strapi React case study" demonstration purposes.
-
-#### Project Repo   
-    https://github.com/KarenJoo/strapi-react-app 
-       
-### BestBid Auction App
-#### Course Semester Project 2 
-
-An auction site where users can add items to be bid on and bid on items other users have put up for auction. Design is not complete.
-
-#### Project Repo
-    https://github.com/KarenJoo/SemesterProject2
+> Typescript, Tailwind, React
 
 
     
